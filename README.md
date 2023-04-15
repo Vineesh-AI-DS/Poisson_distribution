@@ -72,7 +72,7 @@ else:
  ```
 
 # Output : 
-
+![pro op2](https://user-images.githubusercontent.com/93427254/232223813-83074978-49fc-4281-97ad-761e51cf1cef.png)
 
 
 # Result:
